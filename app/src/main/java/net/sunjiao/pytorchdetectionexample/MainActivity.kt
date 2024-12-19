@@ -35,7 +35,7 @@ class MainActivity : ComponentActivity() {
                 Scaffold(topBar = {
                     CenterAlignedTopAppBar(
                         title = {
-                            Text("Small Top App Bar")
+                            Text("Pytorch detection example")
                         }
                     )
                 }, modifier = Modifier.fillMaxSize()
